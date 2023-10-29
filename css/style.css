@@ -1,0 +1,18 @@
+.stacks img {
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.stacks img:hover {
+    scale: 1.2;
+}
+
+.contact-links:hover {
+    transition: all .3s ease-in-out;
+    color: #0d6efd;
+}
+
+.social-links a:hover {
+    transition: all .3s ease-in-out;
+    color: #0d6efd;
+}
